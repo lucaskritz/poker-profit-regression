@@ -1,5 +1,10 @@
 # poker-profit-regression
 
+### 🚀 TL;DR  
+This project implements a quadratic regression model to predict net profit in poker tournaments using factors like game type, Buy-In, total entries, and rebuys. Despite using Ridge regression and multiple predictors, the model showed poor performance, suggesting the predictors may not strongly influence profitability.
+
+---
+
 ### 📊 Project Overview  
 This project implements a **quadratic regression model** using the **scikit-learn** package to predict net profit in poker tournaments. The model is based on several predictors, including:
 - Game type
